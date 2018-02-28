@@ -1,0 +1,17 @@
+.red {
+    background-color: red;
+}
+
+.black {
+    background-color: black;
+}
+
+a {
+    color: hotpink;
+}
+
+/* border over ride for bootstrap card */
+.card {
+    border: 0;
+}
+
